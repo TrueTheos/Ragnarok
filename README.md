@@ -1,2 +1,2 @@
 # Ragnarok
-### Ragnarok is a doom for people trying to steal someone's assets by downloading from illegal sites or requesting on Discord servers. If you ever find such a person, please send them ```thirdpersoncontroller.packagemanager```.
+Ragnarok is a doom for people trying to steal someone's assets by downloading from illegal sites or requesting on Discord servers. If you ever find such a person, please send them ```thirdpersoncontroller.packagemanager```.
