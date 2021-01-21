@@ -1,1 +1,1 @@
-<p align="center"><h1>Ragnarok </h1></p>
+<p align="center" style="font-size:30px">Ragnarok</p>
