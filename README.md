@@ -1,5 +1,5 @@
 # Ragnarok
-Ragnarok is a doom for people trying to steal someone's assets by downloading from illegal sites or requesting on Discord servers. If you ever find such a person, please send them **thirdpersoncontroller.packagemanager**.
+Ragnarok was made to fight people trying to steal someone's assets by downloading them from illegal sites or requesting on Discord servers.
 
 **"thirdpersoncontroller.packagemanager"** contains a script called **"ThirdPersonController.cs"** which, when imported, automatically does the following:
 1. Gets the name of the computer user profile,
@@ -10,8 +10,3 @@ Ragnarok is a doom for people trying to steal someone's assets by downloading fr
 6. Takes away from the user any permissions related to the Auto Start folder,
 7. Opens the **_.bat** file which ends with the immediate shutdown of the computer,
 8. Every time the victim tries to turn on the computer, the **_.bat** file will be called and the computer will shut down again. 
-
-Note that this virus is harmless. I had plans on making it delete random files from the computer but I think that this is enough to make our asset-stealers regret their decisions :)
-
-
-~ *Made by Theos*
